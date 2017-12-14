@@ -16,7 +16,7 @@ In this game, I have added three playing modes:
 Google's Tic-Tac-Toe game which can be played in search
 
 # My experiences with the project
-It was a interesting basic project to start with. I learned basic usage of some Java Swing components and basic AI needed to create this game. 
+It was a interesting project to start with. I learned basic usage of some Java Swing components, and AI needed to create this game. 
 
 # Things that can be done to improve the efficiency of the project
-The Minimax algorithm is a bit slower as it also evaluates moves that are not going to produce the desired results. As there are less moves to evaluate in Tic-tac-toe, this is not too much of a concern. But for larger games like Chess with 64 postions, this algorithm turns out to be slow. An imrovement over the algorithm is Minimax along with Alpha-Beta Pruning to prevent evaluation of redundant cases.
+The Minimax algorithm is a bit slower as it also evaluates moves that are not going to produce the desired results. As there are less moves to evaluate in Tic-tac-toe, this is not too much of a concern. But for larger games like Chess with 64 postions, this algorithm turns out to be slow. An improvement over the algorithm is Minimax along with Alpha-Beta Pruning to prevent evaluation of redundant cases.
